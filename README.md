@@ -24,7 +24,7 @@ AI Integration, API Design, System Security.
 
 ## Projects
 - **[BlockChain](https://github.com/blessedlab/BlockChain)** — A blockchain-focused project exploring core concepts and implementation details.
-- **[TournamentDB-Api](https://github.com/blessedlab/TournamentDB-Api)** — A REST API for managing tournament data (teams, matches, and results).
+- **[TournamentDB-Api](https://github.com/blessedlab/TournamentDB-Api)** — A REST API for managing team registrations on web site.
 
 ## Contact
 - Email: **blessedlab@proton.me**
